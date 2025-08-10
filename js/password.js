@@ -249,5 +249,3 @@ function showAdminPasswordModal() {
 document.addEventListener('DOMContentLoaded', function () {
     initPasswordProtection();
 });
-
-
